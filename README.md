@@ -5,6 +5,12 @@ This is a customized version of JLokalize.
 
 Original project: http://jlokalize.sourceforge.net/
 
+How to use
+----------
+
+- Get the JAR file from the [releases](releases) page, double-click on the downloaded file to run it
+- A user manual in .odt format is available [here](manual/manual.odt?raw=true)
+  
 Changes from 1.1
 ----------------
 
