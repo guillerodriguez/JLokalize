@@ -8,7 +8,7 @@ Original project: http://jlokalize.sourceforge.net/
 How to use
 ----------
 
-- Get the JAR file from the [releases](releases) page, double-click on the downloaded file to run it
+- Get the JAR file from the [releases](https://github.com/guillerodriguez/JLokalize/releases) page, double-click on the downloaded file to run it
 - A user manual in .odt format is available [here](manual/manual.odt?raw=true)
   
 Changes from 1.1
